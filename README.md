@@ -38,22 +38,6 @@ A Verilog-based design of a **synchronous First-In First-Out (FIFO) buffer** tha
 
 ---
 
-## 📁 File Structure
-
-
-FIFO\_Verilog/
-├── CODE/
-│   ├── fifo.v                # FIFO module
-│   └── fifo\_tb.v             # Testbench for simulation
-├── Simulation\_Result/
-│   ├── waveform.png          # Screenshot or image of simulation output
-│   └── notes.txt             # Description of results (optional)
-└── README.md
-
-
-
----
-
 ## 🧪 How to Simulate
 
 1. Open **ModelSim** or another Verilog simulator.
